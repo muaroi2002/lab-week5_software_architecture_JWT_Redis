@@ -56,7 +56,7 @@ public class StudentController {
 
             try {
                 // Gửi yêu cầu đăng nhập và nhận token
-                String response = restTemplate.postForObject("http://localhost:8181/api/v1/login", requestEntity, String.class);
+                String response = restTemplate.postForObject("http://localhost:8080/login", requestEntity, String.class);
                 // Lưu token vào session
                 session.setAttribute("token", response);
                 // Tiếp tục thực hiện tạo sinh viên
