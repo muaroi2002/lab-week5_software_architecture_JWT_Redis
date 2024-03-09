@@ -1,7 +1,7 @@
-package Controller;
+package com.an.lap5.Controller;
 
-import Models.Course;
-import Service.CourseService;
+import com.an.lap5.Models.Course;
+import com.an.lap5.Service.CourseService;
 import jakarta.servlet.http.HttpSession;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.*;

@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8d049c-0738-48fc-8dff-eb29f03cf338" name="Changes" comment="" />
+    <list default="true" id="6f8d049c-0738-48fc-8dff-eb29f03cf338" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SV2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SV2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SV2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/SV2/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SV2/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/src/main/java/Controller/CourseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/src/main/java/Controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/src/main/java/Models/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/src/main/java/Models/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/src/main/java/Repositories/CourseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/src/main/java/Repositories/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/src/main/java/Service/CourseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/src/main/java/Util/JwtUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/src/main/java/com/an/lap5/Lap5Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/SV2/src/main/java/com/an/lap5/Lap5Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SV2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SV2/src/test/java/com/an/lap5/Lap5ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SV2/src/test/java/com/an/lap5/Lap5ApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +78,7 @@
     "WebServerToolWindowFactoryState": "false",
     "android.gradle.sync.needed": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/KTTKPM/lab-week5_software_architecture_JWT_Redis/SV2",
+    "last_opened_file_path": "D:/KTTKPM/lab-week5_software_architecture_JWT_Redis/JWT",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -100,6 +118,7 @@
       <workItem from="1709887064780" duration="4101000" />
       <workItem from="1709891338143" duration="2483000" />
       <workItem from="1709893893583" duration="60000" />
+      <workItem from="1709902428172" duration="18000" />
     </task>
     <servers />
   </component>

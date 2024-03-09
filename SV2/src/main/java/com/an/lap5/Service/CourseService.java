@@ -1,7 +1,7 @@
-package Service;
+package com.an.lap5.Service;
 
-import Models.Course;
-import Repositories.CourseRepository;
+import com.an.lap5.Models.Course;
+import com.an.lap5.Repositories.CourseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
